@@ -1,5 +1,3 @@
-# CampusAcademicSystem
-
 # Campus Academic Management System
 
 ## Overview
